@@ -1,0 +1,18 @@
+This app uses a single codebase to build a mobile app that can run on multiple platforms. 
+Cross-platform app development frameworks such as Flutter, React Native, and Xamarin allows developers to write code in a high-level programming language and then compile it into native code for different platforms. 
+Cross-platform app development is generally faster and more cost-effective than native app development, but it can still result in some performance and user experience trade-offs.
+
+
+///cross vs hybrid///
+
+
+Hybrid and cross-platform mobile app development are both approaches to building mobile applications that can run on multiple platforms such as iOS and Android. 
+However, they differ in their implementation and the technology used.
+
+Hybrid app development involves building a single app that can run on multiple platforms using web technologies such as HTML, CSS, and JavaScript.
+Hybrid apps are essentially web apps that are wrapped in a native app container, which allows them to access native device features like the camera and accelerometer.
+The app runs on the device using a built-in browser called a WebView. Hybrid apps are usually built using frameworks like Ionic, PhoneGap, and Apache Cordova.
+
+On the other hand, cross-platform app development involves building an app using a single codebase that can be compiled natively for multiple platforms.
+This approach typically uses a platform-specific framework that abstracts away the differences between the platforms, allowing developers to write code once and deploy it to multiple platforms.
+Cross-platform apps are usually built using frameworks like React Native, Xamarin, and Flutter.
